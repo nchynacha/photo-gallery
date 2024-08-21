@@ -6,4 +6,4 @@
 </p>
 <br>
 
-Check out my <a href="[https://nchynacha.github.io/portfolio/](https://nchynacha.github.io/photo-gallery/)" style="font-size: 24px; font-weight: bold; text-decoration: none; color: inherit; font-family: Arial, sans-serif;">**_LIVE DEMO_**</a> to see my Photo Gallery website.
+Check out my <a href="https://nchynacha.github.io/portfolio/" style="font-size: 24px; font-weight: bold; text-decoration: none; color: inherit; font-family: Arial, sans-serif;">**_LIVE DEMO_**</a> to see my Photo Gallery website.
