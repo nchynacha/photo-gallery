@@ -1,4 +1,4 @@
-# **Photo Gallery**
+# <p align=center>**Photo Gallery**</p>
 live demo https://nchynacha.github.io/photo-gallery/ 
 <br>
 <p align=center>
