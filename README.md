@@ -1,4 +1,4 @@
-# photo-gallery
+# **Photo Gallery**
 live demo https://nchynacha.github.io/photo-gallery/ 
 <br>
 <p align=center>
