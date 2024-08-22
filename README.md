@@ -17,11 +17,25 @@
   
 </p>
 
-</p>
+# Photo Gallery
+
+This is a simple photo gallery web application built using HTML, CSS, and JavaScript.
 
 
+## Installation
 
+To view the photo gallery locally, follow these steps:
 
-<br>
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/photo-gallery.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd photo-gallery
+    ```
+3. **Open the `index.html` file in a web browser**:
+    Simply open the `index.html` file in your preferred web browser to view the gallery.
+
  
 
