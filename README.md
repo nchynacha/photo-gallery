@@ -1,6 +1,9 @@
 # <p align=center>**Photo Gallery**</p>
 
 <br>
+Through my lens, I capture not just images, but emotions, moments, and memories. Every photograph in this gallery is a reflection of the places I’ve been, the people I’ve met, and the beauty I’ve seen. I hope these snapshots of my journey resonate with you as much as they mean to me.
+<br>
+<br>
 <p align=center>
 <img src="https://github.com/nchynacha/portfolio/blob/main/assets/images/image.png?raw=true" alt="photo gallery" width="700" height="500">
 </p>
